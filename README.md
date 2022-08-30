@@ -81,7 +81,49 @@ II) Marco Teorico
 
 III) EJERCICIOS
 
+Seccion 17
 
+![image](https://user-images.githubusercontent.com/105677161/187488441-9e0bf831-bfdb-43a3-b215-52043d3ef96c.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187488617-353c917e-eb21-4467-a03b-1e0b0acbf687.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187488734-db00ad4f-c13a-4713-8b97-8ab785234d7f.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187488948-8eade8ca-52e7-43a2-81a2-a426967e624e.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187489037-e2a5422d-bdaa-4812-a5ed-15a0142057e7.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187489307-f4d6d9bf-fcc0-40d5-9bf8-a957feec48c9.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187489419-b97c3921-1fda-46f8-81b7-3ad1c9851f05.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187492039-a55b0e13-7588-42e7-a443-f8bca9a1677d.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187492124-1ff4de11-e9fe-443c-9188-89d9f9c2c2eb.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187492241-3266f2b1-ac9e-4f07-a9ce-3a08472f7adc.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187492335-d8d655fb-7d26-491d-bda3-9cedd2ebf575.png)
+
+SECCION 18
+
+![image](https://user-images.githubusercontent.com/105677161/187492433-74335a1b-5d15-445a-b3f7-cb710b41865e.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187492520-b6befb1e-9313-41fb-97b4-6a3077a6fb9f.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187492577-a449ed7f-e3e9-4d91-82d5-50b6d6997e35.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187492661-809c0df8-8e40-4e9f-a56c-c3df432cd315.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187492762-1ad8014f-911c-472b-858e-4ff216490937.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187492864-8ba112ac-b1d9-4194-aa4a-db3e8bb1f413.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187492971-21b50023-3af0-4e2a-8c06-04a98c22ad69.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187493045-c759d6a4-cbfe-422f-bfe0-327c7ea9e15a.png)
+
+![image](https://user-images.githubusercontent.com/105677161/187493176-14495684-2e1c-47ed-a711-49327103473f.png)
 
 IV) Video:
 
