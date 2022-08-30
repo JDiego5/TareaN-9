@@ -79,7 +79,21 @@ II) Marco Teorico
 
 ![image](https://user-images.githubusercontent.com/105677161/187333470-3106676e-a8ca-46e9-989b-c11a21b6c9aa.png)
 
+III) EJERCICIOS
 
+
+
+IV) Video:
+
+Link del video: https://www.youtube.com/watch?v=X3hrz4y69K8
+
+V) Conclusiones:
+
+En conclusion, dentro de estos capitulos se lo determinar la impedancia de un circuito RLC en serie, el como analizar circuitos RLC en serie, analizar un circuito en cuanto a resonancia en serie, se puede determinar impedancia y admitancia en un circuito RL en paralelo y por ultimo, en el capitulo 17, analizar un circuito RL en paralelo-serie. Por otro lado en el capitulo 18, se realizo lo siguiente: analisis sobre la operación de filtros pasabajas RC y RL, analizar la operación de filtros pasaaltas RC y RL, determinar la operación de filtros pasabanda, entender como funciona y aplica la operación de filtros rechazabanda.
+
+VI) BIBLIOGRAFIA
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava edición) [Libro electrónico]. Pearson Education.
 
 
 
